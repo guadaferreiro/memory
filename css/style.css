@@ -25,6 +25,7 @@ body {
     -webkit-text-stroke-width: 1px;
 }*/
 
+
 section {
     display: grid;
     grid-template-columns: repeat(6, 8em);
